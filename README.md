@@ -1,5 +1,13 @@
 # i200Demo
 
-框架Vue2
+对下方图片做的pc端还原
 
-Css库Bootstrap
+![](./src/assets/images/preview.png)
+
+
+说明
+----------
+
+框架：Vue2
+
+Css库：Bootstrap
