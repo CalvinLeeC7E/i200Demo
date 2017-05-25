@@ -1,0 +1,175 @@
+.lee{
+  display: flex;
+  flex-direction: row;
+}
+
+.main-view {
+  margin-bottom: 60px;
+}
+
+.footer-view {
+  background-color: #292929;
+  padding: 50px 0;
+}
+
+#top_navbar, #menu_navbar {
+  margin-bottom: 0;
+}
+
+#menu_navbar .container {
+  height: 100px;
+}
+
+.navbar-inverse {
+  background: #292929;
+}
+
+.navbar {
+  min-height: 40px;
+}
+
+.navbar-center {
+  text-align: center;
+  line-height: 100px;
+  font-weight: 400;
+}
+
+.navbar-center .navbar-nav > li > a {
+  color: #2a2a2a;
+}
+
+.navbar-center .navbar-nav .menu-selected {
+  color: #d3995f;
+}
+
+.navbar-center ul {
+  float: none;
+  list-style-type: none;
+}
+
+.navbar-center ul li {
+  float: none;
+  display: inline;
+  margin: 0 2%;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+  color: white;
+}
+
+.icon-image {
+  width: auto;
+  height: 14px;
+}
+
+.input-group-addon-c {
+  background-color: #d3995f;
+  color: white;
+}
+
+.input-group.no-border-radius input {
+  border: 0;
+  border-radius: 0;
+}
+
+.input-group.no-border-radius span {
+  border: 0;
+  border-radius: 0;
+}
+
+.main-thumbnail {
+  width: 100%;
+  height: 630px;
+  background-color: #f6f6f6;
+}
+
+.second-thumbnail {
+  margin-top: 10px;
+}
+
+.c-thumbnail {
+  width: 100%;
+  background-color: #f6f6f6;
+}
+
+.commodity-price {
+  color: #d3995f;
+  font-size: 1.5em;
+}
+
+.options-area {
+  margin: 60px 0;
+}
+
+.options .btn {
+  height: 42px;
+  padding: 0 20px;
+  border-radius: 0;
+  border: 1px solid #d3995f;
+}
+
+.options-color.btn-group {
+  padding: 5px 10px 0px 10px;
+  border: 1px solid #d3995f;
+}
+
+.options-color.btn-group div {
+  display: inline-table;
+  width: 20px;
+  height: 20px;
+  margin: 5px;
+}
+
+.buy-btn {
+  margin: 0;
+  background-color: black;
+  color: #d3995f;
+  text-align: center;
+  height: 60px;
+  line-height: 60px;
+  font-size: 1.2em;
+}
+
+.details {
+  margin-top: 60px;
+}
+
+.similiar-items-title {
+  color: #d3995f;
+  text-align: center;
+  margin: 50px 0 40px 0;
+}
+
+.similiar-item {
+  text-align: center;
+}
+
+.similiar-item .img {
+  height: 300px;
+  background-color: #f6f6f6;
+}
+
+.similiar-item .title {
+  margin-top: 10px;
+  font-weight: 400;
+  font-size: 1.2em;
+}
+
+.similiar-item .price {
+  color: #d3995f;
+  font-size: 1em;
+}
+
+.footer-view ul > li > a {
+  line-height: 2.5;
+  color: white;
+}
+
+.footer-view .mail {
+  border: 1px solid #d3995f;
+  padding: 10px 50px;
+}
+
+.icon {
+  margin-left: 20px;
+}
